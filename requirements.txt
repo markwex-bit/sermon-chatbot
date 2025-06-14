@@ -1,6 +1,6 @@
 streamlit
 langchain
-lainchain-openai
+langchain-openai
 langchain-community
 faiss-cpu
 gtts
