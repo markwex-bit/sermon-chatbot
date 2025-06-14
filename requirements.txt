@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+gtts
+pygame
+SpeechRecognition
+openai==0.28

@@ -1,0 +1,14 @@
+# Prevent API keys and credentials from being tracked
+openai_key.txt
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment (if present)
+venv/
+.env/
+
+# OS and IDE files
+.DS_Store
+.vscode/
