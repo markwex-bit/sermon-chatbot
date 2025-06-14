@@ -2,8 +2,8 @@ streamlit
 langchain
 langchain-openai
 langchain-community
+openai
 faiss-cpu
 gtts
 pygame
 SpeechRecognition
-openai==0.28
